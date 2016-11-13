@@ -1,0 +1,5 @@
+# スクレイピング対象
+[site]
+url = "http://news.yahoo.co.jp/list/?c=sports&p="
+start_index = 1
+end_index = 10
